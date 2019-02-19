@@ -1,13 +1,17 @@
 {
   "name": "ember-dead-code",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Detect dead code with confidence via real user monitoring",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "real user monitoring",
+    "real user metrics",
+    "real user measurement",
+    "rum"
   ],
-  "repository": "",
+  "repository": "buschtoens/ember-dead-code",
   "license": "MIT",
-  "author": "",
+  "author": "Jan Buschtöns <jan@buschtoens.me> (https://jan.buschtoens.me)",
   "directories": {
     "doc": "doc",
     "test": "tests"
