@@ -11,8 +11,8 @@
 [![dependencies](https://img.shields.io/david/buschtoens/ember-dead-code.svg)](https://david-dm.org/buschtoens/ember-dead-code)
 [![devDependencies](https://img.shields.io/david/dev/buschtoens/ember-dead-code.svg)](https://david-dm.org/buschtoens/ember-dead-code)
 
-Detect dead code with confidence via real user monitoring. Finds dead
-components, routes, helpers, ember-intl translations and whatever your heat
+Detects dead code with confidence via real user monitoring. Finds dead
+components, routes, helpers, ember-intl translations and whatever your heart
 desires!
 
 ## The Idea
