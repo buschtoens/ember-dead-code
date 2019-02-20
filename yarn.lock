@@ -651,51 +651,51 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
-"@clarkapp/eslint-config-browser@^0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@clarkapp/eslint-config-browser/-/eslint-config-browser-0.1.9.tgz#2d49f62d2d225f0b62973d5c1dc48e65a89660d3"
-  integrity sha512-rAx6M+MevYows4L1YAfdpV1ExGLCf9eK9EiA48ja4tdoNG+CAxR4EkrCv1XrkhAR2gK5HLKinEEt0e/dgP9dqg==
+"@clark/eslint-config-browser@^0.1.13":
+  version "0.1.13"
+  resolved "https://registry.yarnpkg.com/@clark/eslint-config-browser/-/eslint-config-browser-0.1.13.tgz#3b811b9b0e411919a4617c619efc87656cd9f183"
+  integrity sha512-OWk3zNvRi1Qeaq8LmEh6CeOkwGa7Cx1XQ6CzD5ejqVj5nRg4ZKzXznCM919oYnCbPRevrTWG5YhYUc4W11RPJg==
   dependencies:
-    "@clarkapp/eslint-config" "^0.1.9"
+    "@clark/eslint-config" "^0.1.13"
 
-"@clarkapp/eslint-config-ember-typescript@^0.1.12":
-  version "0.1.12"
-  resolved "https://registry.yarnpkg.com/@clarkapp/eslint-config-ember-typescript/-/eslint-config-ember-typescript-0.1.12.tgz#353375b125afd15b0ee11209ccfbcb229dae1033"
-  integrity sha512-4LeWCg8zwfmMslS9/pZZHuxRjO2K3qVdVLM6wvDg1Bu+bf9Ms3okgjhJxQLSkNaPiCBYaQMfwl356d6qjGduGQ==
+"@clark/eslint-config-ember-typescript@^0.1.12":
+  version "0.1.13"
+  resolved "https://registry.yarnpkg.com/@clark/eslint-config-ember-typescript/-/eslint-config-ember-typescript-0.1.13.tgz#541a4340c5521ce1482ad3b0727f117744d5e8b8"
+  integrity sha512-0G1Yh0hLSPb47jXDsNXEzW03Lq1tVJNT3W3J/CsKHVelCPZ9kDS/Ps8rhRHibQPXR5ROiY7qQLevPiR9RRMYOg==
   dependencies:
-    "@clarkapp/eslint-config-ember" "^0.1.12"
-    "@clarkapp/eslint-config-typescript" "^0.1.9"
+    "@clark/eslint-config-ember" "^0.1.13"
+    "@clark/eslint-config-typescript" "^0.1.13"
 
-"@clarkapp/eslint-config-ember@^0.1.12":
-  version "0.1.12"
-  resolved "https://registry.yarnpkg.com/@clarkapp/eslint-config-ember/-/eslint-config-ember-0.1.12.tgz#5728655ddc616ac00c5d4c87c72c1fac8cb92698"
-  integrity sha512-YcQ0NaKYB+z2VwUQFKQUQNEWvoqkSP95kqr+s5VlYHKHkkBPNIFc4vAoupbYiVH+f01irQfey9Jssy6/k2B7HQ==
+"@clark/eslint-config-ember@^0.1.12", "@clark/eslint-config-ember@^0.1.13":
+  version "0.1.13"
+  resolved "https://registry.yarnpkg.com/@clark/eslint-config-ember/-/eslint-config-ember-0.1.13.tgz#ff4f51e6fd4dcf7748600d742095ac430efa6424"
+  integrity sha512-MsV7ACpP0cWoiJt2zrhsgc6zk2GEAzg+HE5Ld89kV4xMAn/kvU5dRP/Ms/1uVeLdqgqXuahAYqGQSl+E1xus/w==
   dependencies:
-    "@clarkapp/eslint-config-browser" "^0.1.9"
+    "@clark/eslint-config-browser" "^0.1.13"
     eslint-plugin-ember "^6.2.0"
     eslint-plugin-ember-best-practices "^1.1.1"
 
-"@clarkapp/eslint-config-node@^0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@clarkapp/eslint-config-node/-/eslint-config-node-0.1.9.tgz#ddeb7ca8b2b372292b05caa4cc1fa5ed25fee9ab"
-  integrity sha512-IYZRAnLN+y7nJV1rhgmSWdSZOZqCqaBaiNiyjv0j5NgxByTr07UOYaGsmN2psSiWVvKtD1c7GmaMMFkqNl0lNA==
+"@clark/eslint-config-node@^0.1.9":
+  version "0.1.13"
+  resolved "https://registry.yarnpkg.com/@clark/eslint-config-node/-/eslint-config-node-0.1.13.tgz#0c9f9f997f117165808e816489d016f8389e6283"
+  integrity sha512-rMsTaqMnq0iu4adWKWzVxXZq7uLRe7sekvlzdAn8hAakamitWo5+nocpW3XJMErG3XDO/mVaRj+rEVdYxYXmRQ==
   dependencies:
-    "@clarkapp/eslint-config" "^0.1.9"
+    "@clark/eslint-config" "^0.1.13"
     eslint-plugin-node "^8.0.1"
 
-"@clarkapp/eslint-config-typescript@^0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@clarkapp/eslint-config-typescript/-/eslint-config-typescript-0.1.9.tgz#f301d875294b524723d39ebe665c3b760a59e952"
-  integrity sha512-0vFnSfYodPlqBMzDFd4Bb1QcdLxWWICmZst5ool9q04+oxyNAyInt6hTEbWkGS4VIuNMdp67v7LUqAzMbV/93A==
+"@clark/eslint-config-typescript@^0.1.13":
+  version "0.1.13"
+  resolved "https://registry.yarnpkg.com/@clark/eslint-config-typescript/-/eslint-config-typescript-0.1.13.tgz#282b30c14ee103126c804cca69549e2231cf22ba"
+  integrity sha512-bdIDdIkycNZAPcz37uNCNBea3VJYXbe30drxfO3T35qtG10sQd6l+TmE/4q3eRVVRl+lYxvoS79hEfyD9YUF5Q==
   dependencies:
-    "@clarkapp/eslint-config" "^0.1.9"
+    "@clark/eslint-config" "^0.1.13"
     "@typescript-eslint/eslint-plugin" "^1.2.0"
-    "@typescript-eslint/parser" "^1.2.0"
+    "@typescript-eslint/parser" "^1.4.0"
 
-"@clarkapp/eslint-config@^0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@clarkapp/eslint-config/-/eslint-config-0.1.9.tgz#11676d1b1fd54411cb2c9c98fa26e0f47a6a8af4"
-  integrity sha512-EFkoUClt3kSla0Pa4OOpwVDjGYzG1EVtV20OJWwKR9vsb2zdNh9vN5swdCRYKCMRZrW1uT713/Ljsuvcx9gR1g==
+"@clark/eslint-config@^0.1.13":
+  version "0.1.13"
+  resolved "https://registry.yarnpkg.com/@clark/eslint-config/-/eslint-config-0.1.13.tgz#dd0b31fe9e44ebcf5ee9b95ec6764cfb95460788"
+  integrity sha512-7q3bGjv/8/ziduT4EyDbgW/eyaYd8L1L4wlN926V8M3KsUI0OPzXzvCrk+qHbp8WqjHZ6JBgGKCHyF7akhFiww==
   dependencies:
     eslint-config-airbnb-base "^13.1.0"
     eslint-config-prettier "^4.0.0"
@@ -1027,7 +1027,7 @@
     requireindex "^1.2.0"
     tsutils "^3.7.0"
 
-"@typescript-eslint/parser@1.4.0", "@typescript-eslint/parser@^1.2.0":
+"@typescript-eslint/parser@1.4.0", "@typescript-eslint/parser@^1.4.0":
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-1.4.0.tgz#44f29af2d97f635a8aedb295eb32ada099cf457f"
   integrity sha512-OvXhpgFCKLxuvoGgtFHQP5gvJvqKGpGjarSPg27E07+OPIcZJ3EpZDdELZuY+0hCA4wqnQ9JzHoTBhdEOMo9Pg==

@@ -1,4 +1,4 @@
 module.exports = {
   root: true,
-  extends: '@clarkapp/node'
+  extends: '@clark/node'
 };

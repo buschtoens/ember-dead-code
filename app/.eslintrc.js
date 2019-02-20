@@ -2,5 +2,5 @@
 
 module.exports = {
   root: true,
-  extends: '@clarkapp/ember'
+  extends: '@clark/ember'
 };
